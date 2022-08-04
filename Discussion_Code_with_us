@@ -1,3 +1,25 @@
 This is the location where we all can collaborate the thoughts and actions.
 
 So our dream for now is to build an application and where do we start? We start with a very basic research on what are the basic type of apps and which type we are going to choose and later we will also decide which subtype of it we are going to finalize.
+Ajinkya is working on JavaScript.
+Avinash will work on Python.
+We need a person on database. 
+Sagar can learn database or we all can learn SQL.
+
+Prerequisites for Data Science
+Here are some of the technical concepts you should know about before starting to learn what is data science.
+
+1. Machine Learning
+Machine learning is the backbone of data science. Data Scientists need to have a solid grasp of ML in addition to basic knowledge of statistics.
+
+2. Modeling
+Mathematical models enable you to make quick calculations and predictions based on what you already know about the data. Modeling is also a part of Machine Learning and involves identifying which algorithm is the most suitable to solve a given problem and how to train these models.
+
+3. Statistics
+Statistics are at the core of data science. A sturdy handle on statistics can help you extract more intelligence and obtain more meaningful results.
+
+4. Programming
+Some level of programming is required to execute a successful data science project. The most common programming languages are Python, and R. Python is especially popular because it’s easy to learn, and it supports multiple libraries for data science and ML.
+
+5. Databases
+A capable data scientist needs to understand how databases work, how to manage them, and how to extract data from them.
